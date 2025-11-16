@@ -1,0 +1,7 @@
+streamlit>=1.31.0
+pypdf2>=3.0.1
+sentence-transformers>=2.3.1
+chromadb>=0.4.22
+groq>=0.4.2
+torch>=2.1.2
+transformers>=4.37.2
